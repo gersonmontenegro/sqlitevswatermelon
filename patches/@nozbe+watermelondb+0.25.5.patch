@@ -1,0 +1,10 @@
+diff --git a/node_modules/@nozbe/watermelondb/native/android/gradle.properties b/node_modules/@nozbe/watermelondb/native/android/gradle.properties
+index 777558d..24993f9 100644
+--- a/node_modules/@nozbe/watermelondb/native/android/gradle.properties
++++ b/node_modules/@nozbe/watermelondb/native/android/gradle.properties
+@@ -1,4 +1,4 @@
+-ReactNativeWatermelonDB_kotlinVersion=1.3.50
++ReactNativeWatermelonDB_kotlinVersion=1.5.20
+ ReactNativeWatermelonDB_compileSdkVersion=31
+ ReactNativeWatermelonDB_buildToolsVersion=28.0.3
+ ReactNativeWatermelonDB_targetSdkVersion=28
